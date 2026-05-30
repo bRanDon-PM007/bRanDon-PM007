@@ -1,14 +1,14 @@
 # Hey, I'm Saurabh
 
-Product Manager, builder, and MBA candidate at INSEAD. I've spent 5 years shipping AI products at Series-A/B startups — voice agents, computer vision, 3D commerce — and I build side projects to stay sharp on the technical layer underneath.
+Product Manager, builder, and MBA candidate at INSEAD. I've spent 5 years shipping AI products at deeptech AI startups building voice agents, visual cataloguing, 3D commerce. I love solving complex problems with simple solutions and deep technical workflows. I build side projects to stay sharp on the technical layer underneath. I am an IIT-BHU alumni and I love Basketball.
 
-Product thinking and hands-on building feed each other. This is where I document both.
+PM's job is to be the advocate for the person using the product.
 
 ---
 
 ### AI Products I've Shipped
 
-Work I owned end-to-end as a PM — strategy, build, GTM, and unit economics.
+Work I owned end-to-end as a PM
 
 <table>
   <tr>
@@ -18,13 +18,13 @@ Work I owned end-to-end as a PM — strategy, build, GTM, and unit economics.
     <td>AI Content Platform</td>
     <td><a href="https://avataar.ai">Avataar.ai</a></td>
     <td>AI video/image generation for 10+ enterprise brands; owned pricing and product strategy</td>
-    <td>5M videos/year · $15M ARR · 60% client cost reduction</td>
+    <td>5M videos/year · $15M ARR</td>
   </tr>
   <tr>
     <td>AI Voice Agents</td>
     <td><a href="https://skit.ai">Skit.ai</a></td>
     <td>Outbound voice bots for payment collections across 20+ US banks and insurers</td>
-    <td>$10M+ ARR · 1M+ daily calls · 100+ bots</td>
+    <td>$10M+ ARR · 1M+ daily calls/td>
   </tr>
   <tr>
     <td>In-house Telephony</td>
@@ -36,7 +36,7 @@ Work I owned end-to-end as a PM — strategy, build, GTM, and unit economics.
     <td>AI Auto Photography App</td>
     <td><a href="https://spyne.ai">Spyne.ai</a></td>
     <td>Mobile app for AI-powered automobile catalogue photography</td>
-    <td>#1 Product of the Week on ProductHunt · 70% cost reduction</td>
+    <td>#1 Product of the Week on ProductHunt · Raised Series A</td>
   </tr>
 </table>
 
