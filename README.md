@@ -1,6 +1,6 @@
 # Hey, I'm Saurabh
 
-PM, builder, and MBA candidate at INSEAD. I've spent 5 years shipping AI products at Series-A/B startups — voice agents, computer vision, 3D commerce — and I build side projects to stay sharp on the technical layer underneath.
+Product Manager, builder, and MBA candidate at INSEAD. I've spent 5 years shipping AI products at Series-A/B startups — voice agents, computer vision, 3D commerce — and I build side projects to stay sharp on the technical layer underneath.
 
 Product thinking and hands-on building feed each other. This is where I document both.
 
