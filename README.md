@@ -82,8 +82,8 @@ Side projects where I go from idea → code → shipped.
   </tr>
   <tr>
     <td>Blogs & Videos</td>
-    <td>Medium / Youtube / YouTube</td>
-    <td>In-depth PM frameworks, interview prep</td>
+    <td>Medium / Youtube</td>
+    <td>Shared in-depth PM frameworks and interview guidance, keeps me grounded</td>
   </tr>
 </table>
 
