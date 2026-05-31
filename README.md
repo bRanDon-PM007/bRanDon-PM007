@@ -1,6 +1,9 @@
 # Hey, I'm Saurabh
+
 Product Manager, builder, and MBA candidate at INSEAD. I've spent 5 years shipping AI products at deeptech AI startups building voice agents, visual cataloguing, 3D commerce. I love solving complex problems with simple solutions and deep technical workflows. I build side projects to stay sharp on the technical layer underneath. I am an IIT-BHU alumni and I love Basketball.
+
 PM's job is to be the advocate for the person using the product - Me 😉
+
 ---
 ### AI Products I've Shipped
 Work I owned end-to-end as a PM
@@ -33,8 +36,10 @@ Work I owned end-to-end as a PM
     <td>#1 Product of the Week on ProductHunt · Raised Series A</td>
   </tr>
 </table>
+
 ---
 ### Projects I'm Building
+
 Side projects where I go from idea → code → shipped.
 <table>
   <tr>
@@ -56,8 +61,11 @@ Side projects where I go from idea → code → shipped.
     <td>Python · Twilio · LLM orchestration</td>
   </tr>
 </table>
+
 ---
+
 ### Teaching & Writing
+
 <table>
   <tr>
     <th>Output</th><th>Where</th><th>What</th>
@@ -74,10 +82,14 @@ Side projects where I go from idea → code → shipped.
   </tr>
 </table>
 ---
+
 ### Now
+
 - MBA at INSEAD (Class of Dec 2026), Exploring Product Management in Europe
 - Building MondeCare AI, a medical tourism platform for self-insured employers in the US
 ---
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-bhatia02)
 [![Email](https://img.shields.io/badge/Email-Contact-grey?style=flat&logo=gmail)](mailto:saurabh.bhatia@insead.edu)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@bhatiasaurabh0207)
