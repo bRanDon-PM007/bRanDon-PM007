@@ -44,7 +44,7 @@ Work I owned end-to-end as a PM
 
 ### Projects I'm Building
 
-Side projects where I go from idea → code → shipped. Repos coming.
+Side projects where I go from idea → code → shipped.
 
 <table>
   <tr>
@@ -67,8 +67,6 @@ Side projects where I go from idea → code → shipped. Repos coming.
   </tr>
 </table>
 
-> Repos going live through 2026. Follow to get notified.
-
 ---
 
 ### Teaching & Writing
@@ -78,40 +76,23 @@ Side projects where I go from idea → code → shipped. Repos coming.
     <th>Output</th><th>Where</th><th>What</th>
   </tr>
   <tr>
-    <td>PM Bootcamp</td>
+    <td>PM Educator</td>
     <td>PM School · Product Space · My Analytics School</td>
-    <td>2-month cohort · 70+ students · 72% placed within 3 months · $300K revenue</td>
-  </tr>
-  <tr>
-    <td>PM Mentorship</td>
-    <td>PM School</td>
-    <td>Recognised as PM School Champion · 100+ PMs mentored</td>
+    <td>I ran 2-month cohort-based courses impacting 200+ students aspiring to become/grow as a Product Manager</td>
   </tr>
   <tr>
     <td>Blogs & Videos</td>
-    <td>PM School / YouTube</td>
-    <td>In-depth PM frameworks, case studies, and AI product teardowns</td>
+    <td>Medium / Youtube / YouTube</td>
+    <td>In-depth PM frameworks, interview prep</td>
   </tr>
 </table>
 
 ---
 
-### Stack
-
-```
-Product     →  Strategy · Roadmapping · Unit Economics · GTM · PRDs
-AI/ML       →  LangChain · Claude API · Vector DBs · Prompt Engineering
-Code        →  Python · SQL · Claude Code
-Design      →  UI/UX · Figma · Product Analytics
-```
-
----
-
 ### Now
 
-- MBA at INSEAD (Class of Dec 2026) — France → UAE → Singapore
-- VP, AI Club — running founder talks and AI hackathons
-- Building `pm-agent` and `deal-lens` between classes
+- MBA at INSEAD (Class of Dec 2026), Exploring Product Management in Europe
+- Building MondeCare AI, a medical tourism platform for self-insured employers in the US
 
 ---
 
