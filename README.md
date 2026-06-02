@@ -2,7 +2,7 @@
 
 Product Manager, builder, and MBA candidate at INSEAD. I've spent 5 years shipping AI products at deeptech AI startups building voice agents, visual cataloguing, 3D commerce. I love solving complex problems with simple solutions and deep technical workflows. I build side projects to stay sharp on the technical layer underneath. I am an IIT-BHU alumni and I love Basketball.
 
-PM's job is to be the advocate for the person using the product - Me 😉
+PM job is to be the advocate for the person using the product - Me 😉
 
 ---
 ### AI Products I've Shipped
