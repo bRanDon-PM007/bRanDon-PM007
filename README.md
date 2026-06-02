@@ -12,7 +12,7 @@ Work I owned end-to-end as a PM
     <th>Product</th><th>Company</th><th>What it does</th><th>Impact</th>
   </tr>
   <tr>
-    <td>AI text to video</td>
+    <td>AI Text to Video</td>
     <td><a href="https://avataar.ai">Avataar.ai</a></td>
     <td>AI video/image generation for 10+ enterprise brands; owned pricing and product strategy</td>
     <td>5M videos/year · $15M ARR</td>
